@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg
+
 # こんにちは、[あなたの名前]です
 
 ## 私について
