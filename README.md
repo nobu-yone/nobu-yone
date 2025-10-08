@@ -27,6 +27,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
 
 # こんにちは、[あなたの名前]です
 
