@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg
+<h3 align="center" >
+  My skills 😤
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,pwsh,anaconda,c,latex,linux,linkedin,notion,octave,git,docker,github,md,py,vscode,ubuntu&perline=8" />
+  </a>
+</p>
+
 
 # こんにちは、[あなたの名前]です
 
